@@ -6,6 +6,8 @@
 
 Run the installer to install Monomode or upgrade an existing installation. Use the **Monomode** desktop/Start menu shortcut to play.
 
+From **1.0.16**, leaving **Launch Monomode** checked opens Monomode when you click **Finish** after installation, upgrade or repair. Uncheck it to leave the client closed. If an older installer did not launch on Finish, upgrade using the download above; this installer behavior cannot be repaired by a client JAR update alone.
+
 The Windows installer from **1.0.15** onward starts without a debug terminal. If you installed 1.0.14, run this installer once to replace its console-enabled executable; normal automatic client updates cannot change that installed Windows executable setting.
 
 ## Future updates
